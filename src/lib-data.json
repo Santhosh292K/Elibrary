@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "React Mastery",
+      "author": "John Doe",
+      "isbn": "1234",
+      "count": 3
+    },
+    {
+      "id": 2,
+      "title": "Design Patterns",
+      "author": "Jane Smith",
+      "isbn": "5678",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "isbn": "9012",
+      "count": 2
+    }
+  ],
+  "users": [
+    {
+      "id": "USR001",
+      "name": "Alice Johnson",
+      "email": "alice@example.com"
+    },
+    {
+      "id": "USR002",
+      "name": "Bob Wilson",
+      "email": "bob@example.com"
+    },
+    {
+      "id": "USR003",
+      "name": "Carol Martinez",
+      "email": "carol@example.com"
+    }
+  ],
+  "borrows": [
+    
+  ]
+} 
